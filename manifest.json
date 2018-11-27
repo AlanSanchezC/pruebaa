@@ -1,0 +1,21 @@
+{
+  "name": "Práctica 4 - Sánchez",
+  "short_name": "Practica4",
+  "icons": [{
+      "src": "assets/img/rec.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }, {
+      "src": "assets/img/rec2.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "assets/img/offline.png",
+      "sizes": "100x100",
+      "type": "image/png"
+    }],
+  "start_url": "index.php",
+  "display": "standalone",
+  "background_color": "#fff", 
+  "theme_color": "#2F3BA2"
+}
